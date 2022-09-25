@@ -11,8 +11,11 @@ npm install
 ```shell
 npx cypress open
 ```
-There's only one test thats called spec.cy.js
+When entain-test have been opened, choose 'E2E Testing' and choose Chrome Browser.
+Click on 'Start E2E Testing in Chrome'.
+Click on spec.cy.js
 
+Note: You have to have 'Next to go races' started.
 
  🚩 **Note**
  I Choose to use Cypress since it's easy to setup and run.
